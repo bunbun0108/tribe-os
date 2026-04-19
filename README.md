@@ -11,6 +11,17 @@ Tribe OS is an **open-source agentic framework** designed to digitize local busi
 ## 🌟 The Vision
 In regions like Nepal, the "WhatsApp Economy" is the primary way business happens. Local owners (Gyms, Clinics, Cafes, Futsal Courts) rely on voice notes and manual logs. Tribe OS provides a **Voice-First** management layer that allows owners to manage registrations, billing, and attendance using only **WhatsApp**.
 
+
+## ⚽ Current Focus: FutsalOS (Mini-Project)
+We are currently fast-tracking a specialized module for **Uncle Futsal Center** to prove the core "Voice-to-Database" engine.
+
+- **Status:** Database Live (Supabase Mumbai)
+- **User:** 40-year-old Futsal Owner
+- **Primary Goal:** Transform messy WhatsApp voice notes into structured booking records.
+- **Current Milestone:** Successfully linked the first test booking to the Business ID via SQL.
+
+---
+
 ## 🧠 Agentic Core
 Tribe OS utilizes the latest **Claude 4.7 Opus & Sonnet** models to handle:
 - **Multilingual Parsing:** Understanding mixed Nepali/English (Romanized) voice-to-text inputs.
